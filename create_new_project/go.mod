@@ -1,4 +1,4 @@
-module github.com/dyfsquall/test_cmd_tool/create_new_project
+module github.com/dyfsquall/test_cmd_tool3/create_new_project
 
 go 1.20
 
